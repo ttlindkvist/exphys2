@@ -1,11 +1,5 @@
-air-glass s, reflection
-background 0.00509
-
-
-
-
-
-th_1	I	th_d
+#Data - first line is background, else the format is t1, I, td
+0.00509	0	0
 0	4.29	0
 10	0.214	21
 20	0.216	42

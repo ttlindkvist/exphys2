@@ -5,7 +5,7 @@ transmission
 Background: 0.0408
 I(0): 3.79
 
-𝜃_1	I (V)	𝜃_d
+th_1	I (V)	th_d
 0	3.79	0
 10	3.74	2.5
 19	3.54	5.5
